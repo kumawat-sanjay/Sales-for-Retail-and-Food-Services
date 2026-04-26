@@ -90,7 +90,7 @@ retail-sales-analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/retail-sales-analysis.git
+git clone https://github.com/kumawat-sanjay/retail-sales-analysis-python.git
 cd retail-sales-analysis
 ```
 
@@ -106,17 +106,6 @@ pip install -r requirements.txt
 streamlit run python/StreamlitApp.py
 ```
 
----
-
-## 📸 Screenshots
-
-### Dashboard Overview
-
-![Dashboard](screenshots/sales_by_category.png)
-
-### Customer Segmentation
-
-![Segments](screenshots/customer_segments.png)
 
 ---
 
