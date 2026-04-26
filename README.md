@@ -6,7 +6,7 @@ An end-to-end data analytics project built with Python and Streamlit to analyze 
 
 ## 🌐 Live Demo
 
-🚀 *[Add your deployed Streamlit link here]*
+🚀 *[https://retail-sales-analysis-python.streamlit.app/]*
 
 ---
 
